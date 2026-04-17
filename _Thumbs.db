@@ -1,0 +1,50 @@
+[
+  {
+    "image_id": "1a",
+    "description": "prop right leg below the knee"
+  },
+  {
+    "image_id": "1b",
+    "description": "same as 1a but rotated counterclockwise 90 degrees"
+  },
+  {
+    "image_id": "1c",
+    "description": "same prop as 1a and 1b but taken from the medial side of the right leg"
+  },
+  {
+    "image_id": "2",
+    "description": "left leg wearing pants showing only the foot"
+  },
+  {
+    "image_id": "3",
+    "description": "right forehead show right eye and a traumatic wound and part of the glass is obstructing the right eye"
+  },
+  {
+    "image_id": "4",
+    "description": "left foot showing an ulcer"
+  },
+  {
+    "image_id": "5",
+    "description": "left forehead with clear eye, eyebrow and hair line with some temporal area showing"
+  },
+  {
+    "image_id": "6",
+    "description": "left eye with part of nasal bridge and a small part of eyebrow"
+  },
+  {
+    "image_id": "7",
+    "description": "right eye with part of nasal bridge and a small part of eyebrow showing"
+  },
+  {
+    "image_id": "8",
+    "description": "right leg showing knee and below and infected"
+  },
+  {
+    "image_id": "9",
+    "description": "Control. Rainbow noise"
+  },
+  {
+    "image_id": "10",
+    "description": "Control. Blue screen error"
+  }
+]

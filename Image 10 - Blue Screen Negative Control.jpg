@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+lmstudio_batch_outputs/
+openai_new_batch_outputs/
+lmstudio_single_image_reruns/
+openai_single_image_reruns/

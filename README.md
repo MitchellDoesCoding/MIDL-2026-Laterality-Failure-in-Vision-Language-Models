@@ -1,1 +1,13 @@
-# MIDL-2026-Laterality-Failure-in-Vision-Language-Models
+image_id,description
+1a,"prop right leg below the knee"
+1b,"same as 1a but rotated counterclockwise 90 degrees"
+1c,"same prop as 1a and 1b but taken from the medial side of the right leg"
+2,"left leg wearing pants showing only the foot"
+3,"right forehead show right eye and a traumatic wound and part of the glass is obstructing the right eye"
+4,"left foot showing an ulcer"
+5,"left forehead with clear eye, eyebrow and hair line with some temporal area showing"
+6,"left eye with part of nasal bridge and a small part of eyebrow"
+7,"right eye with part of nasal bridge and a small part of eyebrow showing"
+8,"right leg showing knee and below and infected"
+9,"Control. Rainbow noise"
+10,"Control. Blue screen error"

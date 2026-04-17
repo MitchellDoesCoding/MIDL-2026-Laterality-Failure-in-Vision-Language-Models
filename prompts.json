@@ -1,0 +1,5 @@
+# Image descriptions
+
+This directory stores human-written descriptions for the example image set.
+
+These descriptions are documentation and dataset metadata only. They are **not** ground-truth labels to be passed to the model during evaluation.
